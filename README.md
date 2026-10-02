@@ -1,7 +1,6 @@
-# <tool-name>
+# agentdiff
 
-> One-line description of what this tool does and which of the four capabilities it provides
-> (monitor / alert / block-limit / revoke).
+> **Alert / verify** — Dry-run conversion engine that shows what a policy would have blocked.
 
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
